@@ -1,4 +1,3 @@
-PORTUGUESE
 - 👋 Oi, eu sou a Jheniffer.
 Originalmente bacharel em Administração, após a graduação segui minha paixão que é a tecnologia e vim parar aqui.
 
@@ -6,9 +5,8 @@ Estudando através de várias escolas onlines sendo principal o curso o Certifie
 
 Tenho uma conta para as atividades do curso e usarei essa conta para os projetos pessoais.
 
-__________________________________________________________________________________________________________________________________________-
+__________________________________________________________________________________________________________________________________________
 
-ENGLISH
 - 👋 Hi, I’m Jheniffer
 Originally Bachelor of Business Administration, after graduation I followed my passion which is technology and here I am.
 
