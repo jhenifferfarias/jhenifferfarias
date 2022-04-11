@@ -2,7 +2,7 @@
 
 Meu nome é Jheniffer. 🌍‍🇧🇷
 
-Originalmente sou bacharel em Administração que após a graduação segui minha paixão que é a tecnologia e vim parar aqui.
+Originalmente sou bacharel em Administração e após a graduação segui minha paixão que é a tecnologia e vim parar aqui.
 
 Estudando através de várias escolas onlines sendo principal o curso o Certified Tech Developer da Digital House, qual me prepara para ser Full Stack, notei que até agora a minha paixão é o Front End. 💻
 
