@@ -1,11 +1,11 @@
-## 👋 Hello
+# 👋 Hello
 ### I'm Jheniffer. 🌍🇧🇷
 
 Brazilian, 26 years old, from São Paulo state, originally I am bacharelor in Administration, post graduated in IT Management and after graduation I chose to follow the area that I always wanted which is technology.
 
 Studying through several online courses, I then noticed that my passion is Front End. 💻
 
-To visit my complete portfolio [click here](https://jhenifferfarias.github.io/portfolio-jhenifferfarias/).
+To visit my complete portfolio in Portuguese [click here](https://jhenifferfarias.github.io/portfolio-jhenifferfarias/).
 
 
 ________________________________________________________
