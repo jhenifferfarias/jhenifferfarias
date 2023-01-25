@@ -1,24 +1,22 @@
-# 👋 Hi,
+## 👋 Hi
+### I'm Jheniffer. 🌍🇧🇷
 
-I’m Jheniffer 🌍‍🇧🇷
+Brazilian, 26 years old, from São Paulo state, originally I am bacharelor in Administration, post graduated in IT Management and after graduation I chose to follow the area that I always wanted which is technology.
 
-Originally Bachelor of Business Administration, after graduation I followed my passion which is technology and here I am.
+Studying through several online courses, I then noticed that my passion is Front End. 💻
 
-I study in several online schools, the main course being the Digital House Certified Tech Developer, which prepares me to be Full Stack, so I realized until now that my passion is the Front End. 💻
+To visit my complete portfolio [click here](https://jhenifferfarias.github.io/portfolio-jhenifferfarias/).
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=nkedin.com/in/jhenifferfarias/)](https://www.linnkedin.com/in/jhenifferfarias/) 
 
-________________________________________________________________________________________
-
-👋 Oi
-
-Meu nome é Jheniffer. 🌍‍🇧🇷
-
-Originalmente sou bacharel em Administração e após a graduação segui minha paixão que é a tecnologia e vim parar aqui.
-
-Estudando através de várias escolas onlines sendo principal o curso o Certified Tech Developer da Digital House, qual me prepara para ser Full Stack, notei que até agora a minha paixão é o Front End. 💻
-
-Tenho uma conta para as atividades do curso e usarei essa conta para os projetos pessoais e profissionais.
+________________________________________________________
 
 
 
+# 👋 Oi
+### Meu nome é Jheniffer. 🌍‍🇧🇷
+
+Brasileira, 26 anos, do estado de São Paulo, originalmente sou bacharel em Administração, pós graduada em Gestão de TI e após a graduação escolhi seguir a área que eu sempre tive vontade que é a tecnologia.
+
+Estudando através de vários cursos onlines, notei então que a minha paixão é o Front End. 💻
+
+Para visitar meu portfólio completo [clique aqui](https://jhenifferfarias.github.io/portfolio-jhenifferfarias/).
